@@ -1,3 +1,4 @@
+<img src="WsCube Tech.jpg" alt="Machine Learning 2024 Course"><br>
 00:00:00 - ML Course Introduction <br>
 00:01:03 - What is Machine learning (ML) <br>
 00:17:19 - Complete Roadmap To Learn Machine Learning <br>
