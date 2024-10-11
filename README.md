@@ -2,7 +2,8 @@
 00:00:00 - ML Course Introduction <br>
 00:01:03 - What is Machine learning (ML) <br>
 00:17:19 - Complete Roadmap To Learn Machine Learning <br>
-00:26:16 - Types of Variables in Machine Learning <br>
+00:26:16 - <stromg>Types of Variables in Machine Learning</stromg <br>
+<br><br>
 00:38:24 - Data Cleaning in Machine Learning <br>
 00:45:15 - What is missing value and how to find it <br>
 01:05:50 - Handling Missing Values (Dropping) <br>
